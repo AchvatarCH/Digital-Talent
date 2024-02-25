@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #2D9596;
+    padding: 15px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+
+nav ul li a:hover {
+    background-color: #9AD0C2;
+}
+
+.fotogw {
+    padding: 30px;
+    height: 5cm;
+    float: left;
+}
+
+#content {
+    background-color: #9AD0C2;
+    height: 1100px;
+    margin: 0;
+    padding: 0;
+}
+
+#content h2 {
+    margin-top: 0;
+    padding-top: 40px;
+}
+
+#content p {
+    text-align: justify;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+#jawa {
+    float: right;
+    height: 60px;
+    padding-bottom: 25px;
+    padding-right: 15px;
+}
+
+hr{
+    border-top: 3px solid black;
+}
+
+.keahlian {
+    background-color: #2D9596;
+    text-align: center;
+    width: 55%;
+    height: 470px;
+    border: 5px solid black;
+    border-radius: 7px;
+}
+
+#content h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.keahlian h2 {
+    color: white;
+}
+
+.responsive {
+    height: auto;
+    width: 80%;
+}
+
+.footer {
+    text-align: center;
+    background-color: #265073;
+    height: 120px;
+}
+
+.footer h1 {
+    padding: 0;
+    margin: 0;
+}
+
+.wa {
+    padding-top: 8px;
+    padding-right: 150px;
+}
